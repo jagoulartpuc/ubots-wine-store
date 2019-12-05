@@ -13,8 +13,8 @@ Para criar esse software o neto do Velasquez (o Velasquinho) disponibilizou uma 
 
 # Rotas da solução: 
 
-/cliente/total - Lista os clientes ordenados pelo maior valor total em compras.
-/cliente/maior - Mostra o cliente com maior compra única no último ano (2016).
-/cliente/fieis - Lista os clientes mais fiéis.
-/cliente/recomendacao - Recomenda um vinho para um determinado cliente a partir do histórico
+# /cliente/total - Lista os clientes ordenados pelo maior valor total em compras.
+# /cliente/maior - Mostra o cliente com maior compra única no último ano (2016).
+# /cliente/fieis - Lista os clientes mais fiéis.
+# /cliente/recomendacao - Recomenda um vinho para um determinado cliente a partir do histórico
 de compras.
