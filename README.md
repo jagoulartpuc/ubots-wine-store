@@ -2,7 +2,7 @@ Esta API foi feita para resolver o seguinte desafio:
 
 Velasquez possui uma loja de vinhos e, ao longo dos anos, guardou dados de seus clientes e um histórico de compras. Velasquez quer personalizar o atendimento e contratou você para desenvolver um software que:
 
-1 - Liste os clientes ordenados pelo maior valor total em compras.
+1 - Liste os clientes ordenados pelo maior valor total em compras. \n
 2 - Mostre o cliente com maior compra única no último ano (2016).
 3 - Liste os clientes mais fiéis.
 4 - Recomende um vinho para um determinado cliente a partir do histórico
